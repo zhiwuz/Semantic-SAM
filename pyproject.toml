@@ -43,7 +43,7 @@ dependencies = [
     "mup==1.0.0",
     "accelerate==0.23.0",
     "kornia==0.7.0",
-    "deepspeed==0.10.3",
+    "deepspeed==0.13.3",
     "wandb==0.15.12",
     "infinibatch==0.1.1",
     "gradio==3.42.0",     
